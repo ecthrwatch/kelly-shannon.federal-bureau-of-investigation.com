@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kelly-shannon.federal-bureau-of-investigation.com/sitemap-index.xml
